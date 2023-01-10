@@ -5,7 +5,7 @@
 
 先打开你的数据库软件 比如Navicat Premium 15，然后命令行建立呢个touko_mall的数据库 当然可以随便改数据库名
 
-IDEA 打开spring1boot文件夹，然后找到application.yml修改配置信息 （配好数据库路径映射 root用户密码 小程序的id） 然后点击左上角三角形运行。
+IDEA 打开springboot后端文件夹，然后找到application.yml修改配置信息 （配好数据库路径映射 root用户密码 小程序的id） 然后点击左上角三角形运行。
 
 打开你的微信者工具，导入这个项目，直接用测试号就行。要是画面没数据 呢就是你的数据库没启动，和后端IJ报错了 没配置好
 
